@@ -7,7 +7,7 @@
           <v-btn @click="Splittar()" color="primary" > Sapeca! </v-btn>          
       </v-col>
       <v-col cols="5" sm="6" md="4" class="card" >
-          <small>Modelo de Saída: <b>123456789 (1º item)</b> </small><br>
+          <small>Modelo de Saída: <b>123456789 (1º item de 3 em 3)</b> </small><br>
           <v-textarea outlined label="Resultado" v-model="stringFinal" placeholder="Resultado" rows="15"></v-textarea>
           <v-btn @click="Clear()" color="primary"> Limpar </v-btn>
       </v-col>
