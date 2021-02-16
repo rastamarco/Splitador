@@ -3,7 +3,7 @@ Na Cooeprativa Agroindustrial Lar, na leitura de uma etiqueta temos esse padrão
 
 Muitas vezes é necessário gerar planilhas para verificar alguns dados em algumas tabelas em que fica mais fácil a manipulação da planilha com somente o item de código do produto.
 Então imagine uma seguinte consulta que te retorna: 
-## Valor Valor Valor Valor ## Valor Valor Valor Valor  123456798;12345678789;123445568789; valor valor
+## Valor Valor Valor Valor  123456798;12345678789;123445568789; valor valor
 ## Valor Valor Valor Valor  123456798;12345678789;123445568789; valor
 ## Valor Valor Valor Valor  123456798;12345678789;123445568789; valor
 ## Valor Valor Valor Valor  123456798;12345678789;123445568789; valor
