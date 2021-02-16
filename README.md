@@ -17,3 +17,7 @@ então se jogarmos a coluna inteira do padrão (123456798;12345678789;1234455687
 ### ...
 
 Ao final pegue o resultado, sobreponha pelos valores do padrão e pronto! a Tabela pode ser manipulada e terá os códigos do produtos mais fáceis de se trabalhar
+
+
+### npm install
+### npm run serve
